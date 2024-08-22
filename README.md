@@ -1,5 +1,5 @@
 # alunoalurastart
-(h1)Boas vindas ao meu perfil 💙💙 (/h1)
+Boas vindas ao meu perfil 💙💙
 Meu nome é **Conceição Gabriel**
 
 Estou estudando na Alura
